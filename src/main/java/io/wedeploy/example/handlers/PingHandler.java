@@ -4,7 +4,7 @@ import com.wedeploy.api.sdk.Response;
 
 public class PingHandler {
 
-	public void handler(Response res) {
+	public void handle(Response res) {
 		res.end("PONG");
 	}
 }
