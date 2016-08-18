@@ -1,0 +1,11 @@
+build
+coverage
+.file-uploads
+.classpath
+.gradle
+.idea
+.project
+.settings
+*.iml
+out
+**/*.map

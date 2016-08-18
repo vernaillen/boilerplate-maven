@@ -1,0 +1,6 @@
+[
+  {
+    "path": "/_ping",
+    "handler": "io.wedeploy.example.handlers.PingHandler#handle"
+  }
+]
