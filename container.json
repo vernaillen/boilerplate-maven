@@ -1,0 +1,7 @@
+{
+  "id": "maven",
+  "name": "Maven",
+  "hooks": {
+    "build": "./gradlew clean build -x test"
+  }
+}
