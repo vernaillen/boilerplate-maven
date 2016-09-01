@@ -1,6 +1,5 @@
 {
   "id": "maven",
-  "name": "Maven",
   "type": "wedeploy/maven",
   "hooks": {
     "build": "./gradlew -Dorg.gradle.native=false clean build -x test"
